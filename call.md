@@ -71,9 +71,10 @@ Cематика
 (* 3 (b 22))
 ```
 
-![graphviz-8](https://user-images.githubusercontent.com/69920824/213927007-bbd545e6-33fe-49e3-8258-a4e4a9224092.png)
+![graphviz-10](https://user-images.githubusercontent.com/69920824/213927124-d276e51e-93b8-4a19-87c0-890212bf4db8.png)
 
-![graphviz-9](https://user-images.githubusercontent.com/69920824/213927015-abeebe79-7349-4145-acd3-4e8687c3d4e7.png)
+![graphviz-11](https://user-images.githubusercontent.com/69920824/213927544-f48e9433-8ff8-4740-a0b9-391ca9c4e6fa.png)
+
 
 #  ⇩  ➪
 
