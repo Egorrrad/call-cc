@@ -25,8 +25,10 @@ Cематика
 
 Стек, предшествующий применению продолжения, отбрасывается, восстанавливается стек, сохранённый в продолжении. 
 
-![graphviz-2](https://user-images.githubusercontent.com/69920824/213925216-b32c47a6-886d-449c-b469-91c5572d5091.png). 
+![graphviz-2](https://user-images.githubusercontent.com/69920824/213925216-b32c47a6-886d-449c-b469-91c5572d5091.png)
+
 Переходит в:
+
 ![graphviz-3](https://user-images.githubusercontent.com/69920824/213925250-d865c9b1-0431-4f9c-9edb-9ec52140ef7b.png)
 
  ```
@@ -45,8 +47,16 @@ Cематика
 
 ![graphviz-7](https://user-images.githubusercontent.com/69920824/213925781-da22c85d-8fe6-4c96-b889-0ba523a16140.png)
 
+переходит в:
+
+![graphviz-6](https://user-images.githubusercontent.com/69920824/213925958-272f547d-2b02-460f-b871-c5de6a3fbba2.png)
+
+
+
+
+
+
 
 
 #  ⇩  ➪
 
-КАРТИНКА
