@@ -76,5 +76,6 @@ Cематика
 ![graphviz-11](https://user-images.githubusercontent.com/69920824/213927544-f48e9433-8ff8-4740-a0b9-391ca9c4e6fa.png)
 
 
-#  ⇩  ➪
+![graphviz-12](https://user-images.githubusercontent.com/69920824/213928058-c430f598-839b-4658-b835-54753d95bde3.png)
+
 
