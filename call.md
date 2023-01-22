@@ -53,6 +53,15 @@ Cематика
 
 
 ```
+(define (REPL)
+    (let* (e (read))
+          (v (eval e (interaction-enviroment)))
+          (- (print v)))
+       (REPL)))
+(define (print v)
+      (write v)
+      (newline))
+      
 (define b #f)
 (+ 100 (call/сc
          (lambla (c)
@@ -62,7 +71,9 @@ Cематика
 (* 3 (b 22))
 ```
 
+![graphviz-8](https://user-images.githubusercontent.com/69920824/213927007-bbd545e6-33fe-49e3-8258-a4e4a9224092.png)
 
+![graphviz-9](https://user-images.githubusercontent.com/69920824/213927015-abeebe79-7349-4145-acd3-4e8687c3d4e7.png)
 
 #  ⇩  ➪
 
