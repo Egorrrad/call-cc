@@ -3,4 +3,4 @@
 
 * [call-with-current-continuation](call.md)
 
-* [call-with-current-continuation](call.md)
+* [Сods for graphs](Cods for graphs.md)
